@@ -8,4 +8,6 @@ Unlike traditional challenge where whole experience is required to fit into 10K 
 
 ## Pages
 
-- [Event Home](https://meetup.github.io/meetup-10k-challenge/hq-faff/events/25212842/)
+- [Event Home](https://meetup.github.io/meetup-10k-challenge/hq-faff/events/psqszpyxkbzb/)
+- [Event Home](https://meetup.github.io/meetup-10k-challenge/hq-faff/events/25212842/) (with event image placeholder)
+- [Event Home](https://meetup.github.io/meetup-10k-challenge/hq-faff/events/25212842/lazyload.html) (with event image lazy-loaded)
