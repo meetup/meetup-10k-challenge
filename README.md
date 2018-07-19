@@ -9,5 +9,7 @@ Unlike traditional challenge where whole experience is required to fit into 10K 
 ## Pages
 
 - [Event Home](https://meetup.github.io/meetup-10k-challenge/hq-faff/events/psqszpyxkbzb/)
+[![Filmstrip](/hq-faff/events/psqszpyxkbzb/filmstrip.png)](http://www.webpagetest.org/video/compare.php?tests=180719_MB_664e636bb1700c631ad07997740e1b70%2C180719_CV_7f62f49dbcf0425b23919114d83ec29a)
+[![Video comparison](/hq-faff/events/psqszpyxkbzb/video_thumbnail.png)](https://youtu.be/0_EW_sO2Wm0)
 - [Event Home](https://meetup.github.io/meetup-10k-challenge/hq-faff/events/25212842/) (with event image placeholder)
 - [Event Home](https://meetup.github.io/meetup-10k-challenge/hq-faff/events/25212842/lazyload.html) (with event image lazy-loaded)
